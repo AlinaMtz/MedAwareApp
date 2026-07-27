@@ -1,5 +1,5 @@
 # MedAwareApp
-An app to to raise awareness of syntomps or how to act in certain medical urgencies in a funny and easy way
+# An app to to raise awareness of syntomps or how to act in certain medical urgencies in a funny and easy way
 
 
 import tkinter as tk
